@@ -1,4 +1,4 @@
-# WebScraping---Arquivo-HTML
+# WebScraping em um Arquivo HTML
 
 O programa tem como objetivo realizar a importação de um arquivo HTML e exportar a primeira tabela presente no site utilizando um dos métodos da biblioteca "pandas". 
 
